@@ -1,0 +1,39 @@
+@CHARSET "ISO-8859-1";
+
+.titre_client{
+	
+	margin:20px;
+	width:300px;
+	position:relative;
+	top:-20px;
+	left:200px;
+	
+}
+.wrapper_client{
+	margin:auto;
+	margin-left: 200px;
+	position:relative;
+	display:inline-block;
+	vertical-align:top;
+	top:-30px;
+	left:200px;
+}
+
+.modifier{
+	margin:auto;
+	margin-left: 70px;
+	position:relative;
+	display:inline-block;
+	vertical-align:top;
+	top:-30px;
+	left:200px;
+}
+
+.titre_modifier{
+	margin:auto;
+	width:auto;
+	position:relative;
+	top:-20px;
+	left:200px;
+	
+}

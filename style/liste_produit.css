@@ -1,0 +1,23 @@
+@CHARSET "ISO-8859-1";
+.container_produits{
+	width: 1160px;
+  margin:auto;
+  height:auto;
+  
+} 
+.wrapper_liste{
+	
+	position:relative;
+	left:10px;
+	 display:inline-block;
+	margin-left:5px;
+	 vertical-align:top;
+ 
+}
+
+.header{
+	width:100px;
+	position:relative;
+	font-size:30px;
+	text-transform:upperclass;
+}

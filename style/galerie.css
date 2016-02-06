@@ -1,0 +1,70 @@
+@CHARSET "ISO-8859-1";
+
+.wrapper{
+	
+	width:1160px;
+	margin-left: 215px;
+	margin-top:-20px;
+}
+
+.container-fluid {
+	margin-top:-40px;
+}
+.galeries{
+	padding-top: 5%;
+}
+
+.titre{
+	padding-top: 5%;
+}
+
+#bouton-prec{
+	padding-top: 200px;
+	
+	float:left;
+}
+#bouton-suiv{
+	padding-top: 200px;
+}
+.prec{
+	background-color: white;
+	border-color: white;
+	border-radius: 200px;
+	font-size: 50px;
+	cursor:pointer;
+}
+.suiv{
+	background-color: white;
+	border-color: white;
+	border-radius: 200px;
+	font-size: 50px;
+	cursor:pointer;
+}
+
+.bouton-panier{
+	width:10%;
+	margin:2%;
+}
+
+.galerie-imgThumbnail{
+	/*width:101%;*/
+	height:500px;
+	background-color: black;
+	border:solid 5px black;
+	margin-bottom: 2%;*/
+}
+
+.descriptionImg{
+	width: 82%;
+	height:70%;
+	margin-left: 2%;
+	margin-right: 2%;
+	float:left;
+	background-color:black;
+	border:solid 10px black;
+}
+
+.cadre{
+	background-color: black;
+	border: solid 2px black;
+}

@@ -1,0 +1,66 @@
+
+.titre_archives{
+	text-align:center;
+	text-transform: uppercase;
+	margin-top:10px;
+}
+.archives_agenda{
+
+		box-sizing: 50px;
+	position:relative;
+	bottom:100px;
+    left:500px;
+    top:-1500px;
+    height:45%;
+    border: 5px solid #8080ff;
+    margin:auto;
+    width:150px;
+      overflow:auto;
+      backgound-color:black;
+}
+
+.archives_agenda p{
+	color: lightgrey;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: auto;
+  letter-spacing: 0.1em;
+  margin-left: auto;
+  
+  text-align:center;
+
+}
+.mois{
+	margin-left:130px;
+}
+
+.img{
+	position:relative;
+	left:200px;
+}
+
+.titre_agenda{
+	margin:20px;
+	width:300px;
+	position:relative;
+	top:-10px;
+	left:200px;
+}
+
+.wrapper_agenda{
+	
+	width:900px;
+	bottom: 20px;
+	position:relative;
+	left:250px;
+	display: inline-block;
+	border-bottom-style: solid;
+}
+
+.wrapper_evenement{
+	display:inline-block;
+	vertical-align:top;
+	position:relative;
+	width:420px;
+	
+}

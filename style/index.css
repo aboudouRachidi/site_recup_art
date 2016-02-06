@@ -1,0 +1,312 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  position: relative;
+  Min-height:800px;
+}
+.container_accueil{
+	width: 1180px;
+  margin:auto;
+  height:auto;
+  
+} 
+.wrapper{
+	position:relative;
+   display:inline-block;
+  vertical-align:top;
+  left:10px;
+  
+}
+
+#connexion{
+	position:absolute;
+	right:240px;
+	top:40px;
+	font-size: 20px;
+	border: 6px solid #fff;
+	border-radius:3px;
+	background-color:#fff;
+}
+.titre_categories{
+	text-align:center;
+	text-transform: uppercase;
+	margin-top:10px;
+	margin-bottom:10px;
+	color:#ffff80;
+}
+
+.categories{
+	background: rgb(69,72,77); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(69,72,77,1) 0%, rgba(0,0,0,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(69,72,77,1)), color-stop(100%,rgba(0,0,0,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(69,72,77,1) 0%,rgba(0,0,0,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(69,72,77,1) 0%,rgba(0,0,0,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(69,72,77,1) 0%,rgba(0,0,0,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(69,72,77,1) 0%,rgba(0,0,0,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
+	
+	box-sizing: 50px;
+	position:fixed;
+	bottom:85px;
+	display:inline;
+    right: 0px;
+    height:87%;
+    border: 5px solid #B177E2;
+    border-radius:10px;
+    margin:auto;
+    width:195px;
+      overflow:auto;
+      background-color:black;
+      
+    
+}
+
+.categories p{
+	color: lightgrey;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: auto;
+  letter-spacing: 0.1em;
+  margin-left: auto;
+  text-align:center;
+
+}
+
+.materiaux{
+	background: #ebe9f9; /* Old browsers */
+background: -moz-linear-gradient(top,  #ebe9f9 0%, #d8d0ef 50%, #cec7ec 51%, #c1bfea 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ebe9f9), color-stop(50%,#d8d0ef), color-stop(51%,#cec7ec), color-stop(100%,#c1bfea)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #ebe9f9 0%,#d8d0ef 50%,#cec7ec 51%,#c1bfea 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #ebe9f9 0%,#d8d0ef 50%,#cec7ec 51%,#c1bfea 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #ebe9f9 0%,#d8d0ef 50%,#cec7ec 51%,#c1bfea 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #ebe9f9 0%,#d8d0ef 50%,#cec7ec 51%,#c1bfea 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ebe9f9', endColorstr='#c1bfea',GradientType=0 ); /* IE6-9 */
+  height: auto;
+  width: auto;
+  background-color: #e9e9e9;
+   margin:0px;
+   position:fixed;
+   bottom:0px;
+   left:220px;
+   
+}
+
+.titre_materiaux{
+	text-align:center;
+	text-transform: uppercase;
+	margin-top:10px;
+	margin-bottom:10px;
+	color:black;
+}
+
+.materiaux p{
+		 color: lightgrey;
+  text-transform: uppercase;
+  font-size: 15px;
+  letter-spacing: 0.1em;
+  display: inline-block;
+  margin-left: 13px;
+  top: 0.95em;
+}
+#defilant{
+	font-size: 20px;
+	width:1350px;
+	margin-left:210px;
+	
+	
+}
+.fb-like{
+	position: absolute;
+	top: 50xp;
+	right:0px;
+	
+}
+
+
+
+
+#connexion a {
+	color: #B177E2;
+}
+#connexion a:hover{
+	color: #F74904;
+}
+
+
+body {
+  background-color: #fff;
+  height:auto;
+  min-height:1600px;
+ 
+  
+}
+
+#footer {
+	position: relative;
+	bottom:0px;
+  background-color: #c0c0c0;
+  Min-height: 26px;
+  Min-width: auto;
+  margin:auto;
+  top:400px;
+  
+}
+.menu_footer {
+position:absolute;
+left:600px;
+
+}
+
+.mention{
+	height: auto;
+  	width: auto;
+	position:relative;
+	bottom: 10px;
+	left: 20px;
+	font-size: 15px;
+	
+	
+	
+}
+
+.mention p {
+
+  color: lightgrey;
+  text-transform: uppercase;
+  text-decoration: overline underline ;
+  font-size: 15px;
+  letter-spacing: 0.1em;
+  display: inline-block;
+  margin-left: 70px;
+  top: 0.95em;
+}
+
+#header {
+	
+    background: url('../background/bannière.JPG') no-repeat;
+  background-size: 1160px 200px;
+  height: 10em;
+  width: 1160px;
+  margin:auto;
+}
+
+img.logo{
+	height:50px;
+	width:50px;
+	margin-left:50px;
+	
+}
+
+
+#header p {
+  
+  color: lightgrey;
+  text-transform: uppercase;
+  font-size: 2em;
+  letter-spacing: 0.2em;
+  margin:auto;
+  text-align: center;
+  position: relative;
+  top: 0.95em;
+}
+
+#header a {
+  color: lightgrey;
+}
+
+#header a:hover {
+  color: #F7BE3C;
+}
+
+
+#navWrap {
+	
+  height: auto;
+  width: 1160px;
+  background-color: #e9e9e9;
+   box-shadow: 0px 10px 10px #B8B8B8;
+   margin: auto;
+   border-style:outset;
+   z-index:100;
+   
+}
+#nav{z-index:100;}
+
+#nav p {
+
+  color: lightgrey;
+  text-transform: uppercase;
+  text-decoration: overline underline ;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  display: inline-block;
+  margin-left: 70px;
+  top: 0.95em;
+}
+
+
+.sidebar
+{
+	margin-top : 99px;
+	background : linear-gradient(to left, white, #FFEDD0);
+	box-shadow : 8px 8px  black;
+	float : left ;
+	width : 200px;
+	height : auto;
+	border-radius : 10px;
+
+}
+
+
+#wrap {
+   margin: auto;        
+   background: #666;
+   padding: 10px;
+   width: 1610px;
+}
+
+a {
+  text-decoration: none;
+  color:#6C6C6C;
+}
+
+a:hover {
+  color: #8080c0;
+  
+}
+#accueil a:hover {
+    color: #B177E2;
+}
+
+#produit a:hover {
+    color: #ff0000;
+}
+
+#panier a:hover {
+    color: #00aced;
+}
+
+#client a:hover {
+  color:#B128E6;
+}
+
+#demarche a:hover {
+  color:#27C5A2;
+}
+
+#blog a:hover {
+  color:#FF0066;
+}
+
+#agenda a:hover {
+  color:#00ff00;
+}
+
+
+#gallerie a:hover {
+  color:#8000ff;
+}
+#contact a:hover {
+  color: #008000;
+}

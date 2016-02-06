@@ -1,0 +1,65 @@
+@CHARSET "ISO-8859-1";
+.titre_blog{
+	margin:20px;
+	width:300px;
+	position:relative;
+	top:-10px;
+	left:200px;
+}
+
+.img{
+	position:relative;
+	left:200px;
+}
+
+.wrapper_blog{
+	
+	width:880px;
+	bottom: 20px;
+	position:relative;
+	left:250px;
+	border-bottom-style: solid;
+}
+
+.wrapper_article{
+	display:inline-block;
+	vertical-align:top;
+	position:relative;
+	width:420px;
+	
+}
+
+.archives_blog{
+
+		box-sizing: 50px;
+	position:relative;
+	bottom:100px;
+	left:500px;
+    top:-980px;
+   
+    height:45%;
+    border: 5px solid #8080ff;
+    margin:auto;
+    width:150px;
+      overflow:auto;
+      backgound-color:black;
+}
+
+.titre_archives{
+	text-align:center;
+	text-transform: uppercase;
+	margin-top:10px;
+}
+
+.archives_blog p{
+	color: lightgrey;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: auto;
+  letter-spacing: 0.1em;
+  margin-left: auto;
+  
+  text-align:center;
+
+}
+
